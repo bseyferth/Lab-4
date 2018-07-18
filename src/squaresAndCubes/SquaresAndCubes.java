@@ -26,7 +26,7 @@ public class SquaresAndCubes {
 			
 			//prints out the initial formatting titles and lines
 			
-			System.out.println("Number\tSquare\tCube");
+			System.out.println("Number\tSquared\tCubed");
 			System.out.println("=======\t=======\t=======");
 			
 			
